@@ -9,9 +9,12 @@
     "ui"
   ],
   "dependencies": {
-    "component/jquery": "*",
+    "component/event": "*",
+    "component/domify": "*",
     "component/autoscale-canvas": "*",
-    "component/emitter": "*"
+    "component/emitter": "*",
+    "timoxley/offset": "*",
+    "yields/prevent": "*"
   },
   "scripts": [
     "index.js",

@@ -1,1 +1,1 @@
-module.exports = '<div class="color-picker">\n  <canvas class="main"></canvas>\n  <canvas class="spectrum"></canvas>\n</div>';
+module.exports = '<div class="color-picker">\n    <div class="main"><canvas></canvas><div class="indicator"></div></div>\n    <div class="spectrum"><canvas></canvas><div class="indicator"></div></div>\n    <div class="opacity"><canvas></canvas><div class="indicator"></div></div>\n</div>';
